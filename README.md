@@ -17,4 +17,4 @@ trial: <number> is prime
 trial: <number> is probably prime
 ```
 
-N.B. factor1 will be prime, factor2 make be composite or prime.
+N.B. factor1 will be prime, factor2 may be composite or prime.
